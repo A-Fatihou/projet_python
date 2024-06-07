@@ -1,0 +1,17 @@
+from button import ma_fonction
+from clickdeplace import click
+from mouvement import mouv
+from operation import oper
+# from touche import
+
+def main():
+    print("quel voulez vous faire ? ")
+    f = input("")
+    
+    ma_fonction()
+    click()
+    mouv()
+    oper()
+
+if __name__ == "__main__":
+    main()
