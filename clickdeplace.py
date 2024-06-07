@@ -12,7 +12,7 @@ def click(run):
   x = random.randint(0, window_width)
   y = random.randint(0, window_height)
   width = random.randint(50, 150)
-  height = random.randint(50, 150)
+  height = random.randint(50, 10)
   
   while run :
     for event in pygame.event.get():
