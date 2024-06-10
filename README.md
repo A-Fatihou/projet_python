@@ -1,1 +1,1 @@
-# projet_python
+Je fais ces mini-projets pour apprendre le Python.
